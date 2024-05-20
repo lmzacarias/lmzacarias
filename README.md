@@ -2,7 +2,7 @@
 
 # Luis Miguel Zacarias
 
-Ingeniero de Software altamente capacitado con experiencia en TDD (pruebas unitarias) y en el desarrollo de aplicaciones utilizando las tecnologías ReactJs, NextJs, NodeJs y MongoDB. He participado en proyectos de implementación de características nuevas y mantenimiento de aplicaciones existentes, asegurando el cumplimiento de los estándares de calidad del código. Mi habilidad para trabajar en equipo y mi pasión por el desarrollo de software me permiten contribuir de manera efectiva en proyectos colaborativos, buscando siempre mejorar y optimizar el rendimiento de las aplicaciones.
+Highly skilled Software Engineer with experience in TDD (unit testing) and in developing applications using ReactJs, NextJs, NodeJs, and MongoDB technologies. I have participated in projects implementing new features and maintaining existing applications, ensuring adherence to code quality standards. My ability to work in a team and my passion for software development enable me to contribute effectively to collaborative projects, always striving to improve and optimize application performance.
 
 ---
 
