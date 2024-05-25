@@ -7,3 +7,9 @@ Highly skilled Software Engineer with experience in TDD (unit testing) and in de
 ---
 
 <img align="" height='170px' src="https://github-readme-stats.vercel.app/api?username=lmzacarias&theme=graywhite&show_icons=true&count_private=true"/>
+
+<div align="center">
+  <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+  </svg>
+</div>
