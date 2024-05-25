@@ -8,4 +8,4 @@ Highly skilled Software Engineer with experience in TDD (unit testing) and in de
 
 <img align="" height='170px' src="https://github-readme-stats.vercel.app/api?username=lmzacarias&theme=graywhite&show_icons=true&count_private=true"/>
 
-https://svgl-badge.vercel.app/api/Library/React?theme=light
+[![Svgl](https://svgl-badge.vercel.app/api/Library/Svgl?theme=light)](https://svgl.app)
