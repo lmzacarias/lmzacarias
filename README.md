@@ -9,3 +9,6 @@ I have participated in projects implementing new features and maintaining existi
 ---
 
 <img align="" height='170px' src="https://github-readme-stats.vercel.app/api?username=lmzacarias&theme=graywhite&show_icons=true&count_private=true"/>
+<p align="center">
+  <img src="card.svg" alt="Animación de mi perfil" width="500" />
+</p>
